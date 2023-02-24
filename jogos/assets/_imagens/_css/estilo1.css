@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(250, 248, 125)
+}
+
+h1 {
+    color: rgba(205, 95, 5, 0.653);
+}
+
+h2{
+    background-color: rgba(255, 91, 3, 0.639);
+   border: 5px dashed;
+}
+
+html{
+    text-align: center;
+}
+
+img{
+    border: 5px dashed;
+}

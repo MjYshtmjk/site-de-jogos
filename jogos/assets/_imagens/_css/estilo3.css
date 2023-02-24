@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(158, 255, 151);
+ }
+ 
+ h1 {
+     color: rgb(11, 113, 35);
+     text-align: center;
+ }
+ 
+ h2{
+     background-color: rgb(23, 148, 46);
+    text-align: center;
+    border: 5px dashed;
+ }
+ 
+ html{
+     text-align: center;
+ }
+ 
+ img{
+     border: 5px dashed;
+ }

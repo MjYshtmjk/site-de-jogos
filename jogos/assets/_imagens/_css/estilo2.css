@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(86, 61, 245, 0.384);
+ }
+ 
+ h1 {
+     color: rgb(9, 5, 93);
+     text-align: center;
+     font-family: 'Times New Roman', Times, serif;
+ }
+ 
+ h2{
+     background-color: rgba(154, 3, 255, 0.9);
+    text-align: center;
+    border: 5px dashed;
+ }
+ 
+ html{
+     text-align: center;
+ }
+ 
+ img{
+     border: 5px dashed;
+ }
